@@ -1,0 +1,66 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+html{
+    font-family: 'Nunito Sans',  monospace, sans-serif;
+   }
+
+
+   
+   
+    .hello{
+        text-align: center;
+        display: flex;
+        background-color: #38ffc0;
+        justify-content: center;
+        flex-wrap: wrap;
+        height:20vh;
+        width: 100vw;
+        align-items: center;
+        font-size: 6rem;
+        letter-spacing: 2rem;
+       
+        
+        
+
+
+    }
+
+.josh{
+    
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:15vh;
+    width: 100vw;
+    align-items: center;
+    letter-spacing: 1rem;
+    background-color:#18c49c ;
+    
+    
+}
+ 
+.dev{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;   
+    height:70vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    background-color:#048063;
+  
+    font-size: 20px;
+}
+
+      .hello:hover{
+        color: white;
+
+
+    }
+
+    
+
+
+    
